@@ -11,10 +11,13 @@ Understanding git branches
 
 ### Developer:
 
-#### Kyle Shakely
+__Kyle Shakely__
 
-##### Test
+[Github](https://github.com/Kshakely5280)
 
-######
+##### Deployment
+[Live](https://kshakely5280.github.io/prework-study-guide/)
 
-![Screenshot]()
+###### Screenshot
+
+![Screenshot](https://github.com/Kshakely5280/prework-study-guide/blob/feature/starter-code/screeenshot.png)
